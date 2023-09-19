@@ -6,7 +6,7 @@ function App() {
   const [nome, setNome] = useState('');
 
   const pokeNome = (nome) => {
-    let url = `https://pokeapi.co/api/v2/pokemon/${nome}`;
+    let url = `https://pokeapi.co/api/v2/pokemon/${nome.toLowerCase()}`;
     fetch(url)
       .then(response => response.json())
       .then(json => {
