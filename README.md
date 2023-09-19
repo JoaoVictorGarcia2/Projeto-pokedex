@@ -1,6 +1,5 @@
 div align="center"
-img src="![Pokémon_logo svg](https://github.com/JoaoVictorGarcia2/Projeto-pokedex/assets/125100615/28eb9da3-2f57-410a-9724-a1c6d313243c)
-" width="0px" /
+img src="https://github.com/JoaoVictorGarcia2/Projeto-pokedex/assets/125100615/28eb9da3-2f57-410a-9724-a1c6d313243c" width="0px" /
 /div
 # PokeAPI
 
