@@ -4,6 +4,8 @@
 
 O projeto consiste em uma "pokédex" quem tem a funcionalidade de realizar buscas de diversos pokémons através do nome, assim obtendo informações como altura, peso, tipo e Nº.
 
+### Pokédex online
+https://joaovictorgarcia2.github.io/Projeto-pokedex/
 
 ### 🔧 Instalação
 
