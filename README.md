@@ -7,12 +7,6 @@ O projeto consiste em uma "pokédex" quem tem a funcionalidade de realizar busca
 ### Pokédex online
 https://joaovictorgarcia2.github.io/Projeto-pokedex/
 
-### 🔧 Instalação
-
-Verifique se o dispositivo já possui o Node.js instalado, após isso execute o comando
-`npx create-react-app "nome dejesado"` dentro de um pasta criada para o projeto logo após isso
-substitua os arquivos da pasta pelo arquivos baixado do projeto.
-
 ## Como executar
 
 `npm start`
